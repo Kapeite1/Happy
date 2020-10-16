@@ -13,24 +13,24 @@ Este projeto foi desenvolvido usando Node.js, ReactJS e React Native, durante a 
 
 # Tecnologias
 
-# h1 Front-end
+# Front-end
 
 - ReactJS
 - React Native
 - Typescript
 - Expo
 
-#h1 Back-end
+# Back-end
 
 - Node.js
 - Express
 - Typescript
 
-#h1 Ambiente de desenvolvimento
+# Ambiente de desenvolvimento
 
 - VS Code
 
-#Como executar
+# Como executar
 
 Para clonar esse repositório pelo terminal, é necessário possuir o Git instalado em sua máquina.
 
@@ -44,7 +44,7 @@ $ cd happy
 
 Para instalar as dependências e executar o projeto, é necessário possuir o Node.js instalado em sua máquina, bem como um gerenciador de pacotes: npm ou Yarn.
 
-#Utilizando Yarn
+# Utilizando Yarn
 
 ```
 # Instale as dependências do back-end
@@ -60,5 +60,5 @@ $ cd ../web && yarn
 $ yarn start
 ```
 
-#Linkedin
+# Linkedin
  https://www.linkedin.com/in/andr%C3%A9-leite-856865104/
