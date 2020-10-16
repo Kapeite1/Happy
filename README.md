@@ -4,16 +4,16 @@ happy é uma plataforma que ajuda pessoas a encontrarem orfanatos próximos para
 
 Este projeto foi desenvolvido usando Node.js, ReactJS e React Native, durante a 3ª edição da Next Level Week ministrada pela Rocketseat.
 
-#Features
+# Features
 
 - Localizar orfanatos pelo mapa;
 - Visualizar as informações do orfanato;
 - Gerar rota até um orfanato, utilizando Google Maps;
 - Cadastrar novas instituições;
 
-#Tecnologias
+# Tecnologias
 
-#h1 Front-end
+# h1 Front-end
 
 - ReactJS
 - React Native
