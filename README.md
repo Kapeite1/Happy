@@ -38,7 +38,7 @@ Para clonar esse repositório pelo terminal, é necessário possuir o Git instal
 
 ```
 # Clone o repositório
-$ git clone https://github.com/Bonizario/happy.git
+$ git clone https://github.com/Kapeite1/Happy
 
 # Entre na pasta do projeto
 $ cd happy
