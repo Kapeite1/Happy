@@ -1,3 +1,5 @@
+<h1 align="center">Happy</h1>
+
 # Sobre
 
 happy é uma plataforma que ajuda pessoas a encontrarem orfanatos próximos para levar felicidade a milhares de crianças.
